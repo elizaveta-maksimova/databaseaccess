@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DatabaseAccess/v14
+/DatabaseAccess/bin/Debug
+/DatabaseAccess/obj/Debug
